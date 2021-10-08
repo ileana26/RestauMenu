@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>imagenes/img/logosinfondo1.png</file>
+        <file>imagenes/img/logo.jpeg</file>
+        <file>imagenes/img/crispy_chicken.jpeg</file>
+        <file>imagenes/img/waffles.jpg</file>
+        <file>imagenes/img/waffles.png</file>
+        <file>imagenes/img/chilaquiles.jpg</file>
+        <file>imagenes/img/clubsandwich.jpg</file>
+        <file>imagenes/img/coctelfrutas.jpg</file>
+        <file>imagenes/img/enchiladassuizas.jpg</file>
+        <file>imagenes/img/enfrijoladas.jpg</file>
+        <file>imagenes/img/hotcakes.jpg</file>
+        <file>imagenes/img/huevos.jpg</file>
+        <file>imagenes/img/molletes.jpg</file>
+        <file>imagenes/img/cafe_capucchino.jpg</file>
+        <file>imagenes/img/chocolate-caliente.jpg</file>
+        <file>imagenes/img/leche.jpg</file>
+        <file>imagenes/img/leche_chocolate.jpg</file>
+        <file>imagenes/img/limonada.jpg</file>
+        <file>imagenes/img/naranjada.jpg</file>
+        <file>imagenes/img/te.jpg</file>
+        <file>imagenes/img/te_helado.jpg</file>
+        <file>imagenes/img/banana_split.jpg</file>
+        <file>imagenes/img/flan_napolitano.jpg</file>
+        <file>imagenes/img/malteadas.jpg</file>
+        <file>imagenes/img/sundae.jpg</file>
+        <file>imagenes/img/pastel_chocolate.jpg</file>
+        <file>imagenes/img/regresar.png</file>
+        <file>imagenes/img/salida.png</file>
+        <file>imagenes/img/cafe-americano.jpg</file>
+    </qresource>
+</RCC>
